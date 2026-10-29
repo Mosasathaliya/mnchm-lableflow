@@ -1,0 +1,6 @@
+{
+  "name": "MNChem Label Studio",
+  "description": "Production chemical packaging label generation and management platform for MNChem products with A4 landscape PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
